@@ -4,8 +4,9 @@ This repository is to keep all the technical tests I have done. You can see my p
 
 | Empresa           | Repositório                                                   | Tecnologias                   | Data      |
 | :---------------- | :------------------------------------------------------------ | :---------------------------- | :-------- |
-| Woovi             | https://github.com/GuiiHenriq/woovi-challenge-leaky-bucket    | React JS                      | May/2025  |
-| Let's Code by Ada | https://github.com/GuiiHenriq/teste-frontend-ada              | React JS                      | Sep/2022  |
+| Jaya Tech         | https://github.com/GuiiHenriq/art-explorer-react/tree/guilherme_erba    | React.js + NodeJS + Typescript   | Jul/2025  |
+| Woovi             | https://github.com/GuiiHenriq/woovi-challenge-leaky-bucket    | React.js + NodeJS + Typescript         | May/2025  |
+| Let's Code by Ada | https://github.com/GuiiHenriq/teste-frontend-ada              | React.js                      | Sep/2022  |
 | Consulta Remedios | https://github.com/GuiiHenriq/teste-frontend-consultaremedios | Vue.js + Nuxt JS + Typescript | Sep/2022  |
 | Empiricus         | https://github.com/GuiiHenriq/teste-empiricus                 | Vue.js                        | May/2021 |
 | Foton Tech        | https://github.com/GuiiHenriq/teste-foton                     | Vue.js                        | Apr/2021  |
