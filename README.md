@@ -1,9 +1,11 @@
-# My Technical Tests
+# Coding Challenge
 
-This repository is to keep all the technical tests I have done. You can see my progress as a developer and check some solutions I used at that time.
+This repository contains the technical assessments I have completed. It showcases my progress as a developer and highlights some of the solutions I implemented at the time.
 
-| Empresa           | Repositório                                                   | Tecnologias                   | Data      |
+| Company           | Repository                                                   | Stack                   | Date      |
 | :---------------- | :------------------------------------------------------------ | :---------------------------- | :-------- |
+| Confidential      | https://github.com/GuiiHenriq/dashboard-react                 | Next.js + Typescript   | Aug/2025  |
+| Airtable          | https://github.com/GuiiHenriq/timeline-airtable               | React.js + Typescript   | Aug/2025  |
 | Jaya Tech         | https://github.com/GuiiHenriq/art-explorer-react/tree/guilherme_erba    | React.js + NodeJS + Typescript   | Jul/2025  |
 | Woovi             | https://github.com/GuiiHenriq/woovi-challenge-leaky-bucket    | React.js + NodeJS + Typescript         | May/2025  |
 | Let's Code by Ada | https://github.com/GuiiHenriq/teste-frontend-ada              | React.js                      | Sep/2022  |
@@ -15,4 +17,4 @@ This repository is to keep all the technical tests I have done. You can see my p
 | Navita            | https://github.com/GuiiHenriq/teste-frontend-navita           | Vue.js                        | Feb/2021  |
 | Uello             | https://github.com/GuiiHenriq/teste-frontend-uello            | Vue.js                        | Feb/2021  |
 | Hi Platform       | https://github.com/GuiiHenriq/teste-frontend-hiplatform       | Vue.js                        | Feb/2021  |
-| Enjoei            | https://github.com/GuiiHenriq/checkout-enjoei                 | JS Vanilla                    | Feb/2019  |
+| Enjoei            | https://github.com/GuiiHenriq/checkout-enjoei                 | Javascript                    | Feb/2019  |
