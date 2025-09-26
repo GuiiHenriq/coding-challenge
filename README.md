@@ -4,6 +4,7 @@ This repository contains the technical assessments I have completed. It showcase
 
 | Company           | Repository                                                   | Stack                   | Date      |
 | :---------------- | :------------------------------------------------------------ | :---------------------------- | :-------- |
+| CoverPin      | https://github.com/GuiiHenriq/dashboard-react                 | React.js + Typescript   | Sep/2025  |
 | Confidential      | https://github.com/GuiiHenriq/dashboard-react                 | Next.js + Typescript   | Aug/2025  |
 | Airtable          | https://github.com/GuiiHenriq/timeline-airtable               | React.js + Typescript   | Aug/2025  |
 | Jaya Tech         | https://github.com/GuiiHenriq/art-explorer-react/tree/guilherme_erba    | React.js + NodeJS + Typescript   | Jul/2025  |
